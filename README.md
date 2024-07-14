@@ -36,7 +36,7 @@ Este proyecto es un conversor de monedas que consume la API de Exchange Rate API
 4. Ejecuta la aplicación y sigue las instrucciones en pantalla para convertir monedas.
 
 **Autor:**
-REMR11
+ItchySagittarius
 
 **Licencia:**
 Este proyecto está bajo la licencia [MIT License](https://opensource.org/licenses/MIT).
